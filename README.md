@@ -12,7 +12,7 @@ Hello there! 👋 Thanks for stopping by and showing interest in my work. I'm To
 - Explore the hiring challenge for a backend engineer position using FastAPI.
   - Repository: [FastAPI Challenge](https://github.com/tomrockdsouza/fastapi-challenge)
 
-### 3. Full Stack Developer Hiring Role in Medicine Data Science
+### 3. Full Stack Developer Hiring Challenge in Medicine Data Science
 - Discover the hiring role for a full stack developer in the field of medical data science.
   - Repository: [Medical Imaging DICOM Assignment](https://github.com/tomrockdsouza/medical-imaging-dicom-assignment)
 
@@ -28,7 +28,7 @@ Hello there! 👋 Thanks for stopping by and showing interest in my work. I'm To
 - Take on the hiring challenge for a role at Alpaca Japan.
   - Gist: [Alpaca Japan Hiring Challenge](https://gist.github.com/tomrockdsouza/3b4b3f744ade13d7c6cd9ad97a6b25f6)
 
-### 7. Hennge Senior Software Engineer (Python Challenge)
+### 7. Hennge Senior Software Engineer (Python Hiring Challenge)
 - Engage in the hiring challenge for the Senior Software Engineer role at Hennge.
   - Gist: [Hennge Python Challenge](https://gist.github.com/tomrockdsouza/e96af7e590ef3aa9c09761377c5be8cb)
 
