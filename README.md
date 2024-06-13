@@ -10,7 +10,7 @@ Hello there! 👋 Thanks for stopping by and showing interest in my work. I'm To
 
 ### 2. Saras Analytics - Senior Data Engineer Hiring Challenge
 - Explore the hiring challenge for a Senior Data Engineer using python pandas and GCP.
-  - Repository: [Data Engineering Challenge]([https://github.com/tomrockdsouza/fastapi-challenge](https://github.com/tomrockdsouza/bigquery-cleaning-challenge))
+  - Repository: [Data Engineering Challenge]([https://github.com/tomrockdsouza/fastapi-challenge](https://github.com/tomrockdsouza/bigquery-cleaning-challenge)
 
 ### 3. Hello Fresh - FastAPI Backend Engineer Hiring Challenge
 - Explore the hiring challenge for a backend engineer position using FastAPI.
