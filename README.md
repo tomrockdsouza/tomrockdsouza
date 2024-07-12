@@ -24,9 +24,9 @@ Hello there! 👋 Thanks for stopping by and showing interest in my work. I'm To
 - Explore one of my project works for the Scalable Systems Programming subject during my Master's degree.
   - Repository: [Master's Degree Project](https://github.com/tomrockdsouza/mrjob-ssp)
 
-### 5. Data Engineer Hiring Challenge at ComfortDelGro Singapore
-- Participate in the hiring challenge for a Data Engineer role at ComfortDelGro Singapore.
-  - Gist: [ComfortDelGro Hiring Challenge](https://gist.github.com/tomrockdsouza/407660987e135e6dee0426c13e48778d)
+### 6. Data Engineer Hiring Challenge at ComfortDelGro Singapore
+- Explore the hiring challenge for a Data Engineer role at ComfortDelGro Singapore with the power of Async Python3.
+  - Gist: [ComfortDelGro Hiring Challenge](https://github.com/tomrockdsouza/singapore-weather)
 
 ### 7. Alpaca Japan Hiring Challenge
 - Take on the hiring challenge for a role at Alpaca Japan.
