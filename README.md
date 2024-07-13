@@ -26,7 +26,7 @@ Hello there! 👋 Thanks for stopping by and showing interest in my work. I'm To
 
 ### 6. Data Engineer Hiring Challenge at ComfortDelGro Singapore
 - Explore the hiring challenge for a Data Engineer role at ComfortDelGro Singapore with the power of Async Python3.
-  - Gist: [ComfortDelGro Hiring Challenge](https://github.com/tomrockdsouza/singapore-weather)
+  - Repository: [ComfortDelGro Hiring Challenge](https://github.com/tomrockdsouza/singapore-weather)
 
 ### 7. Alpaca Japan Hiring Challenge
 - Take on the hiring challenge for a role at Alpaca Japan.
