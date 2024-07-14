@@ -36,6 +36,10 @@ Hello there! 👋 Thanks for stopping by and showing interest in my work. I'm To
 - Engage in the hiring challenge for the Senior Software Engineer role at Hennge.
   - Gist: [Hennge Python Challenge](https://gist.github.com/tomrockdsouza/e96af7e590ef3aa9c09761377c5be8cb)
 
+### 9. DataFication Convert Data Files into Formats your Data Team requires!
+- I’ve created a super cool tool that swiftly converts multiple parquet files into Excel format locally—no need to send your files to any online service. It’s fast, efficient, and keeps your data secure!
+  - Repository: [Datafication by Tomrock](https://github.com/tomrockdsouza/datafication)
+
 ### Bonus: Expose Local PC Websites to WWW with SSL
 - Learn how to expose your local PC websites to the world with SSL using a free Oracle server.
   - Gist: [Expose Local PC Websites](https://gist.github.com/tomrockdsouza/d41e6cec7aaa2bbaa3867e1b1ec2430e)
