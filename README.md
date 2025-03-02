@@ -1,6 +1,36 @@
-# Tomrock Dsouza's GitHub Portfolio
+# Tomrock D'souza's GitHub Portfolio
 
-Hello there! 👋 Thanks for stopping by and showing interest in my work. I'm Tomrock Dsouza, and you can connect with me on [LinkedIn](https://www.linkedin.com/in/tomrockdsouza/) and [Instagram](https://www.instagram.com/tomrockdsouza/).
+Hello there! 👋 Thanks for stopping by and showing interest in my work. I'm Tomrock D'souza, and you can connect with me on [LinkedIn](https://www.linkedin.com/in/tomrockdsouza/) and [Instagram](https://www.instagram.com/tomrockdsouza/).
+
+## 🚀 Technical Skills
+
+### 🖥️ Languages
+- **Python**, **SQL**, **Shell/Bash Scripting**, **TypeScript**  
+
+### 🗄️ SQL Databases
+- **PostgreSQL**, **MySQL**, **Redshift**, **DuckDB**  
+
+### 🐍 General Python Libraries
+- **Boto3**, **BeautifulSoup (BS4)**, **Scikit-Learn (SKLearn)**, **Plotly**, **Pytest**, **Ruff**, **UV**  
+
+### 📊 Data Python Libraries
+- **Polars**, **PySpark (Glue)**, **Pandas**, **SQLAlchemy**, **PyFlink**  
+
+### ⚙️ DevOps & CI/CD
+- **Git**, **GitHub Actions**, **Terraform**, **Docker**, **Monorepo**  
+
+### 🔄 Streaming & Caching
+- **Kinesis**, **Redis**, **SQS**  
+
+### 📂 NoSQL Databases
+- **DynamoDB**, **MongoDB**, **Cassandra**, **ElasticSearch**, **Neo4J**  
+
+### 🌐 Web Stack
+- **FastAPI**, **Flask**, **Alembic**, **HTML**, **CSS**, **JavaScript**, **ReactJS** _(Newbie)_, **NestJS** _(Newbie)_  
+
+### 🎯 Additional Skills
+- **Web Scraping**, **Machine Learning**, **Airflow**, **Data Contracts**, **dbt**  
+
 
 ## Noteworthy Projects
 
