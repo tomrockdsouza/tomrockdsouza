@@ -2,6 +2,17 @@
 
 Hello there! 👋 Thanks for stopping by and showing interest in my work. I'm Tomrock D'souza, and you can connect with me on [LinkedIn](https://www.linkedin.com/in/tomrockdsouza/) and [Instagram](https://www.instagram.com/tomrockdsouza/).
 
+## 🚀 Technical Skills
+
+**Languages:** Python, SQL, Bash, TypeScript  
+**SQL DBs:** PostgreSQL, MySQL, Redshift, DuckDB  
+**Python Libs:** Boto3, BS4, SKLearn, Plotly, Pytest, Ruff, UV  
+**Data Python Libraries:** Polars, PySpark, Pandas, SQLAlchemy, PyFlink  
+**DevOps:** Git, GitHub Actions, Terraform, Docker, Monorepo  
+**Streaming/Caching:** Kinesis, Redis, SQS  
+**NoSQL DBs:** DynamoDB, MongoDB, Cassandra, ElasticSearch, Neo4J  
+**Web Stack:** FastAPI, Flask, Alembic, HTML, CSS, JS, ReactJS (Newbie), NestJS (Newbie)  
+**Others:** Web Scraping, ML, Airflow, Data Contracts, dbt  
 
 ## Noteworthy Projects
 
