@@ -13,7 +13,7 @@ I'm Tomrock D'souza, and you can connect with me on [LinkedIn](https://www.linke
 **NoSQL DBs:** DynamoDB, MongoDB, Cassandra, ElasticSearch, Neo4J  
 **Web Stack:** FastAPI, Flask, Alembic, HTML, CSS, JS, ReactJS (Newbie), NestJS (Newbie)  
 **Others:** Web Scraping, ML, Airflow, Data Contracts, dbt  
-**AWS Services:** Lambda, Step Functions, S3, Athena, SQS, SNS, Glue, API Gateway, VPC, IAM, Redshift, DynamoDB, EC2, Redis, RDS, DMS.  
+**AWS Services:** Lambda, Step Functions, S3, Athena, SQS, SNS, Glue, API Gateway, VPC, IAM, EC2, RDS, DMS.  
 **GCP Services:** GCS, CloudSQL, Cloud Run, BigQuery, VPC.
 
 ## Side Projects and Hiring Challenges
