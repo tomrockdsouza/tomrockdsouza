@@ -4,18 +4,39 @@ Hello there! 👋 Thanks for stopping by and showing interest in my work.
 I'm Tomrock D'souza, and you can connect with me on [LinkedIn](https://www.linkedin.com/in/tomrockdsouza/) 
 
 ## 🚀 Technical Skills
-**Languages:** Python, SQL, Bash, TypeScript  
-**SQL DBs:** PostgreSQL, MySQL, Redshift, DuckDB  
-**Python Libs:** Boto3, BS4, SKLearn, Plotly, Pytest, Ruff, UV  
-**Data Python Libraries:** Polars, PySpark, Pandas, SQLAlchemy, PyFlink  
-**DevOps:** Git, GitHub Actions, Terraform, Docker, Monorepo  
-**Streaming/Caching:** Kinesis, Redis, SQS  
-**NoSQL DBs:** DynamoDB, MongoDB, Cassandra, ElasticSearch, Neo4J  
-**Web Stack:** FastAPI, Flask, Alembic, HTML, CSS, JS, ReactJS (Newbie), NestJS (Newbie)  
-**Others:** Web Scraping, ML, Airflow, Data Contracts, dbt  
-**AWS Services:** Lambda, Step Functions, S3, Athena, SQS, SNS, Glue, API Gateway, VPC, IAM, EC2, RDS, DMS.  
-**GCP Services:** GCS, CloudSQL, Cloud Run, BigQuery, VPC.
 
+<small>
+
+### Programming Languages
+- **Core Languages:** Python, SQL, Bash, TypeScript
+
+### Data Engineering & Analytics
+- **Data Python Libraries:** Pandas, Polars, PySpark, PyFlink, SQLAlchemy  
+- **SQL Databases:** PostgreSQL, MySQL, Redshift, DuckDB  
+- **NoSQL Databases:** DynamoDB, MongoDB, Cassandra, ElasticSearch, Neo4J  
+- **Streaming & Caching:** Kinesis, Redis, SQS  
+- **Workflow & ETL Tools:** Airflow, dbt, Data Contracts  
+
+### Machine Learning & Data Science
+- **Python Libraries:** SKLearn, Plotly, Boto3, BS4 (BeautifulSoup)  
+- **Other Skills:** Machine Learning (ML), Web Scraping  
+
+### Cloud Platforms
+- **AWS Services:** Lambda, Step Functions, S3, Athena, SQS, SNS, Glue, API Gateway, EC2, RDS, DMS, VPC, IAM  
+- **GCP Services:** GCS, BigQuery, CloudSQL, Cloud Run, VPC  
+
+### Web Development
+- **Frameworks & Tools:** FastAPI, Flask, Alembic, NestJS (Newbie), ReactJS (Newbie)  
+- **Frontend Basics:** HTML, CSS, JavaScript (JS)  
+
+### DevOps & Infrastructure
+- **Tools:** Git, GitHub Actions, Docker, Terraform, Monorepo  
+- **Testing & Quality:** Pytest, Ruff, UV  
+
+### Additional Skills
+- **Specialized Tools:** Web Scraping, ML, Airflow, Data Contracts, dbt  
+
+</small>
 ## Side Projects and Hiring Challenges
 1. **Saras Analytics (Senior Data Engineer)** - [Repo](https://github.com/tomrockdsouza/bigquery-cleaning-challenge)  
 2. **Hello Fresh (FastAPI Backend Engineer)** - [Repo](https://github.com/tomrockdsouza/fastapi-challenge)  
