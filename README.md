@@ -37,6 +37,7 @@ I'm Tomrock D'souza, and you can connect with me on [LinkedIn](https://www.linke
 - **Specialized Tools:** Web Scraping, ML, Airflow, Data Contracts, dbt  
 
 </small>
+
 ## Side Projects and Hiring Challenges
 1. **Saras Analytics (Senior Data Engineer)** - [Repo](https://github.com/tomrockdsouza/bigquery-cleaning-challenge)  
 2. **Hello Fresh (FastAPI Backend Engineer)** - [Repo](https://github.com/tomrockdsouza/fastapi-challenge)  
