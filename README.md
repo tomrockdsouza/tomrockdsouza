@@ -11,10 +11,10 @@ I'm Tomrock D'souza, and you can connect with me on [LinkedIn](https://www.linke
 - **Core Languages:** Python, SQL, Bash, TypeScript
 
 ### Data Engineering & Analytics
-- **Data Python Libraries:** Pandas, Polars, PySpark, PyFlink, SQLAlchemy  
+- **Data Python Libraries:** Pandas, Polars, PySpark (Learning), PyFlink (Learning), SQLAlchemy  
 - **SQL Databases:** PostgreSQL, MySQL, Redshift, DuckDB  
-- **NoSQL Databases:** DynamoDB, MongoDB, Cassandra, ElasticSearch, Neo4J  
-- **Streaming & Caching:** Kinesis, Redis, SQS  
+- **NoSQL Databases:** DynamoDB, MongoDB (Learning), Cassandra (Learning), ElasticSearch (Learning), Neo4J (Learning)  
+- **Streaming & Caching:** Kinesis (Learning), Redis, SQS  
 - **Workflow & ETL Tools:** Airflow, dbt, Data Contracts  
 
 ### Machine Learning & Data Science
