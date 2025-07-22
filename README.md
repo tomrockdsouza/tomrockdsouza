@@ -13,7 +13,7 @@ I'm Tomrock D'souza, and you can connect with me on [LinkedIn](https://www.linke
 ### Data Engineering & Analytics
 - **Data Python Libraries:** Pandas, Polars, PySpark (Learning), PyFlink (Learning), SQLAlchemy  
 - **SQL Databases:** PostgreSQL, MySQL, Redshift, DuckDB  
-- **NoSQL Databases:** DynamoDB, MongoDB (Learning), Cassandra (Learning), ElasticSearch (Learning), Neo4J (Learning)  
+- **NoSQL Databases:** DynamoDB, Neo4J(Basics), MongoDB (Learning), Cassandra (Learning), ElasticSearch (Learning).  
 - **Streaming & Caching:** Kinesis (Learning), Redis, SQS  
 - **Workflow & ETL Tools:** Airflow, dbt, Data Contracts  
 
