@@ -1,7 +1,11 @@
 # Tomrock D'souza's GitHub Portfolio
 
 Hello there! 👋 Thanks for stopping by and showing interest in my work.   
-I'm Tomrock D'souza, and you can connect with me on [LinkedIn](https://www.linkedin.com/in/tomrockdsouza/) 
+I'm Tomrock D'souza, and you can connect with me on [LinkedIn](https://www.linkedin.com/in/tomrockdsouza/). 
+
+I have some awesome code in my [Gists](https://gist.github.com/tomrockdsouza/) as well go check them out! 
+
+On the Left you can access my YouTube channel and  Instagram as well.
 
 ## 🚀 Technical Skills
 
